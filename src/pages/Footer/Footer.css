@@ -1,0 +1,36 @@
+.footer{
+    margin-top:80px;
+    padding:20px 0;
+    background:#111;
+    color:#aaa;
+}
+
+/* layout */
+
+.footer-container{
+    max-width:1200px;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+/* icons */
+
+.social-icons{
+    display:flex;
+    gap:20px;
+}
+
+.social-icons a{
+    font-size:22px;
+    color:#aaa;
+    transition:0.3s;
+}
+
+/* hover animation */
+
+.social-icons a:hover{
+    transform:translateY(-4px) scale(1.2);
+    color:white;
+}

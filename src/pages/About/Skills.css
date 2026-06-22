@@ -1,0 +1,53 @@
+.skills{
+    margin-top:120px;
+    text-align:center;
+}
+
+.skills h3{
+    color:#555;
+    font-size:30px;
+    margin-bottom:40px;
+}
+
+/* container */
+
+.skills-slider{
+    width:100%;
+    overflow:hidden;
+}
+
+/* icons */
+
+.skills-track{
+    display:flex;
+    align-items:center;
+    gap:70px;
+    font-size:55px;
+    color:#444;
+    width:max-content;
+    animation:scrollSkills 20s linear infinite;
+}
+
+
+
+.skills-track svg{
+    transition:0.3s;
+}
+
+.skills-track svg:hover{
+    transform:scale(1.2);
+    color:#000;
+}
+
+
+@keyframes scrollSkills{
+
+    0%{
+        transform:translateX(0);
+    }
+
+    100%{
+        transform:translateX(-50%);
+    }
+
+}
