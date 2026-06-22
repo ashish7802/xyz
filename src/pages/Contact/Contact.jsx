@@ -25,12 +25,12 @@ function Contact() {
 
           <div className="info-item">
             <FaEnvelope className="contact-icon"/>
-            <span>ashishyadav7802@gmail.com</span>
+            <span>ashishyadav4818@gmail.com</span>
           </div>
 
           <div className="info-item">
             <FaPhone className="contact-icon"/>
-            <span>+91 XX XX XX XXXX</span>
+            <span>+91 97949 18800</span>
           </div>
 
           <div className="info-item">
