@@ -9,11 +9,11 @@ function Footer(){
 
       <div className="footer-container">
 
-        <p>© 2026 Amine Hamzaoui</p>
+        <p>© 2026 Ashish Yadav</p>
 
         <div className="social-icons">
 
-          <a href="#"><FaGithub/></a>
+          <a href="https://github.com/ashish7802" target="_blank" rel="noopener noreferrer"><FaGithub/></a>
           <a href="#"><FaLinkedin/></a>
           <a href="#"><FaInstagram/></a>
 

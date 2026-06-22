@@ -39,9 +39,17 @@ function About() {
         </div>
 
         <div className="text-about">
-<p>
-Hi, I'm Ashish Yadav, a passionate Full Stack Developer & AI Builder based in Lucknow, India. I specialize in bridging robust web applications with cutting‑edge AI automation. With expertise in React, Node.js, Python, and modern AI APIs, I build scalable solutions that solve real‑world problems. My philosophy: write clean code, automate the boring stuff, and keep learning.
-</p>
+          <p>
+            I'm a passionate Full Stack Developer & AI Builder based in Lucknow, India.
+            I specialize in bridging robust web applications with cutting‑edge AI automation.
+            With expertise in React, Node.js, Python, and modern AI APIs, I build scalable
+            solutions that solve real‑world problems.
+          </p>
+          <p>
+            My philosophy is simple: write clean code, automate the boring stuff, and always
+            keep learning. With great technical power comes the responsibility to build
+            meaningful products.
+          </p>
         </div>
 
       </div>

@@ -14,8 +14,8 @@ export default function Hero() {
       />
       <div className="content">
         <div className="buttn">
-          <a href="#">Contact</a>
-          <a href="#">Who i'm</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">Who i'm</a>
         </div>
       </div>
     </div>

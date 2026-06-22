@@ -1,53 +1,48 @@
 import "./Project.css";
 
-import img1 from "../../assets/images/Cleveroad.jpg";
-import img2 from "../../assets/images/Capture d'écran 2025-10-22 182207.png";
-import img3 from "../../assets/images/Weather Forecast Dashboard.jpg";
-import img4 from "../../assets/images/WordPress dashboard design concept.jpg";
-import img5 from "../../assets/images/Game Dashboard Design.jpg";
-import img6 from "../../assets/images/Task manager app.jpg";
+import autodocAI from "../../assets/images/autodoc_ai_card_1782130403769.png";
+import commitAI from "../../assets/images/commitai_card_1782130420856.png";
+import anonConnect from "../../assets/images/anonconnect_card.png";
+import devLaunchpad from "../../assets/images/dev_launchpad_card.png";
+import devUniverse from "../../assets/images/dev_universe_card.png";
+import airTrafficControl from "../../assets/images/air_traffic_control_simulator_card.png";
 
 const projects = [
   {
-    title: "E-Commerce Website",
-    img: img1,
-    desc: "Modern online store with product filtering, cart, and payment system.",
-    skills: ["HTML", "CSS", "JavaScript"]
+    title: "autodoc‑ai",
+    img: autodocAI,
+    desc: "AI‑powered documentation generator.",
+    skills: ["React", "Node.js", "Python"]
   },
-
   {
-    title: "Portfolio Website",
-    img: img2,
-    desc: "Personal portfolio to showcase my design and coding projects.",
-    skills: ["HTML", "CSS", "Bootstrap"]
+    title: "Commitai",
+    img: commitAI,
+    desc: "AI‑powered Git commit message generator.",
+    skills: ["Next.js", "FastAPI", "MongoDB"]
   },
-
   {
-    title: "Weather App",
-    img: img3,
-    desc: "Responsive app showing real-time weather data using API integration.",
-    skills: ["HTML", "CSS", "API"]
+    title: "AnonConnect",
+    img: anonConnect,
+    desc: "Anonymous social networking platform.",
+    skills: ["React", "Express", "MongoDB"]
   },
-
   {
-    title: "Blog Website",
-    img: img4,
-    desc: "Clean and simple blogging platform with markdown support.",
-    skills: ["HTML", "Tailwind", "JavaScript"]
+    title: "dev‑launchpad",
+    img: devLaunchpad,
+    desc: "Open‑source developer starter toolkit.",
+    skills: ["CLI", "Templates", "LLM"]
   },
-
   {
-    title: "Game Landing Page",
-    img: img5,
-    desc: "Landing page for a game with animations and parallax effects.",
-    skills: ["HTML", "CSS", "GSAP"]
+    title: "dev‑universe",
+    img: devUniverse,
+    desc: "Immersive 3D web experience for dev portfolios.",
+    skills: ["Three.js", "React‑Three‑Fiber", "GSAP"]
   },
-
   {
-    title: "Task Manager",
-    img: img6,
-    desc: "Task tracking web app with CRUD features and clean UI.",
-    skills: ["HTML", "CSS", "JS"]
+    title: "air‑traffic‑control‑simulator",
+    img: airTrafficControl,
+    desc: "Realistic air traffic control simulation.",
+    skills: ["Unity", "C#"]
   }
 ];
 
