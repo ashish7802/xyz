@@ -1,6 +1,6 @@
 ![Logo](Photo.png)
 
-# Amine Portfolio Showcase 💻
+# Ashish Portfolio Showcase 💻
 
 Welcome to Amine's Portfolio Showcase!
 A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using React.js.
@@ -8,7 +8,7 @@ A modern and elegant personal portfolio website built to present my projects, sk
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://saboo24.github.io/Portfolio11/)
+You can view the live website here: [Live Demo](https://github.com/ashish7802/xyz/)
 
 ---
 
@@ -57,16 +57,16 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: ashishyadav4818@gmail.com   
+- Location: Lucknow, UP, India
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashish-yadav-ab206124a/)  
+- GitHub: [GitHub](https://www.linkedin.com/in/ashish-yadav-ab206124a/)  
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by ** Ashish Yadav **
 
 
 ```bash
-git clone https://github.com/Saboo24/portofolio11.git
+git clone https://github.com/ashish7802/xyz.git
+
