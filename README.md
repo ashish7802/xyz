@@ -7,7 +7,7 @@ A modern and elegant personal portfolio website built to present my projects, sk
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://github.com/ashish7802/xyz/)
+You can view the live website here: [Live Demo](https://github.com/ashish7802/ashish-portfolio/)
 
 ---
 
